@@ -35,7 +35,7 @@ brew install jq
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/github-access-checker.git
+git clone https://github.com/N1T5H/GitHub-Repository-Access-Checker.git
 cd github-access-checker
 ```
 
