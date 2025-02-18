@@ -1,4 +1,3 @@
-------------------------------------------------------------
 # DevDash: Real-Time Development Dashboard & Automation Tool
 
 DevDash is a collection of lightweight Bash scripts designed to streamline your development workflow. Featuring real-time system monitoring, file change detection, and quick project initialization, DevDash makes it easier to manage development tasks on Unix-like systems (Linux and macOS).
@@ -128,10 +127,9 @@ Contributions are welcome! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-------------------------------------------------------------
+
 Thank you for using DevDash! We hope these tools make your development experience smoother and more efficient. Happy coding!
 
-------------------------------------------------------------
 
 You can place this file in the root directory of your repository as README.md.
 
