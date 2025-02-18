@@ -37,7 +37,7 @@ Follow these steps to get started with DevDash:
 
    Run the following commands:
    ```bash
-   git clone https://github.com/yourusername/DevDash.git
+   git clone https://github.com/N1T5H/DevDash.git
    cd DevDash
    ```
 
