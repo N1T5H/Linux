@@ -130,8 +130,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for using DevDash! We hope these tools make your development experience smoother and more efficient. Happy coding!
 
-
-You can place this file in the root directory of your repository as README.md.
-
----
-Answer from Perplexity: pplx.ai/share
